@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm DEBAPRIYA DEY
 
